@@ -1,5 +1,5 @@
 <?php
 
-echo "Hallow world 123"
+echo json_encode(["{'name':'jaseel'}"])
 
 ?>
