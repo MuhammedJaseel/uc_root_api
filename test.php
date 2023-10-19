@@ -1,5 +1,5 @@
 <?php
 
-echo json_encode("{'name':'jaseel'}")
+echo json_decode("{'name':'jaseel'}")
 
 ?>
